@@ -125,7 +125,7 @@ function App() {
   return (
     <div className="wrapper h-100 w-100">
       {/* { renderComponent() } */}
-      Test
+      <div className="">Test</div>
     </div>
   );
 }
