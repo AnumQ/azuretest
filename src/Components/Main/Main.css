@@ -1,0 +1,13 @@
+#logoutBtn {
+    float: right;
+    font-size: 12px;
+}
+
+.header {
+    height: 34px; 
+}
+
+.profile {
+    display: block;
+    margin: 40px;
+}
